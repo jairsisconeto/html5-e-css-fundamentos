@@ -16,4 +16,4 @@ O layout da página foi construído utilizando as seguintes tags semânticas e o
 
 Você pode acessar a página final hospedada no GitHub Pages através do link:
 
-**[INSERIR O LINK DO GITHUB PAGES AQUI]**
+**https://jairsisconeto.github.io/html5-e-css-fundamentos/**
